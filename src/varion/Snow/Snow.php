@@ -29,7 +29,7 @@ class Snow extends PluginBase implements Listener {
 			for($z = 0; $z < 16; ++ $z)
 				$event->getChunk()->setBiomeId ( $x, $z, 12);
 	}
-	public function onPlayerJoinEvent(PlayerJoinEvent $event) {
+	public function onPLayerJoin(PlayerJoinEvent $event) {
 		$player = $event->getPlayer ();
 		$pk = new LevelEventPacket ();
 		$pk->evid = 3001;
