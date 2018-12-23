@@ -14,7 +14,7 @@ use pocketmine\utils\Config;
 use pocketmine\utils\TextFormat;
 use pocketmine\event\level\ChunkLoadEvent;
 use pocketmine\event\player\PlayerJoinEvent;
-use pocketmine\network\mcpe\protocol\LevelEventPacket;;
+use pocketmine\network\mcpe\protocol\LevelEventPacket;
 
 class Snow extends PluginBase implements Listener {
     	public $cooltime = 0;
