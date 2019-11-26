@@ -1,6 +1,7 @@
 name: Snow
 main: varion\Snow\Snow
 version: 1.0
+description: It's time for some snow!
 author: Varion
 api:
 - 3.0.0
