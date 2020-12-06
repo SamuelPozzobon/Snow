@@ -1,6 +1,3 @@
-## Snow
-Snow everywhere! Merry Xmas! :snowman:
-
 ## Snow :snowman:
 * * *
 > **원하는 월드에서 눈이 내리게 할 수 있습니다! :snowflake:**
