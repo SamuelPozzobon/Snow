@@ -14,5 +14,10 @@
 - world2
 ...
 ```
+> config.yml를 이와 같이 수정하세요
 > edit config.yml like this
 * * *
+  
+  
+:loudspeaker: 버그가 있다면 언제든지 제보해주세요!
+:loudspeaker: Let me know bugs if there are
