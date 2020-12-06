@@ -11,7 +11,8 @@ Snow everywhere! Merry Xmas! :snowman:
 
 > **You can set worlds in config.yml**
 * * *
-```---
+```
+---
 - world
 - world2
 ...
