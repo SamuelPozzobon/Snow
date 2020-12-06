@@ -14,6 +14,7 @@ Snow everywhere! Merry Xmas! :snowman:
 ```---
 - world
 - world2
-...```
+...
+```
 > edit config.yml like this
 * * *
